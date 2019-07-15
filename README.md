@@ -11,7 +11,7 @@ Linear Regression | 0.24 | 0.24
 K Nearest Neighbors | 0.19 | 0.20
 Decision Tree | 0.19 | 0.20
 Bagged Decision Trees | 0.08 | 0.22
-Random Forrest | 0.19 | 0.19
+Random Forest | 0.19 | 0.19
 Adaboost | 0.20 | 0.21
 SVR | 0.21 | 0.21
 
@@ -23,6 +23,6 @@ Logistic Regression | 82% | 83%
 K Nearest Neighbors | 83% | 82%
 Decision Tree | 80% | 80%
 Bagged Decision Trees | 82% | 82%
-Random Forrest | 83% | 83%
+Random Forest | 83% | 83%
 Adaboost | 83% | 83%
 SVC | 83% | 83%
