@@ -1,5 +1,4 @@
-# 6.01-Lab
-### Supervised Learning Model Comparison
+# Supervised Learning Model Comparison
 
 This lab looks at [data](http://fmwww.bc.edu/ec-p/data/wooldridge2k/401KSUBS.DES) to predict an individual's income and eligibility for a 401k.
 
